@@ -92,7 +92,7 @@ class Window
       .setPosition(320, 20)
       .setSize(width-340,height-85)
       .setGroup(displayFileWindow)
-      .setFont(createFont("arial",12))
+      .setFont(createFont("arial",24))
       .setLineHeight(14)
       .setColor(color(128))
       .setColorBackground(color(0,100))
